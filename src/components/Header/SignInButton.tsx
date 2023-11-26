@@ -8,7 +8,7 @@ export const SignInButton = () => {
 		<Button
 			size="lg"
 			rounded="full"
-			colorScheme="blackAlpha"
+			colorScheme="gray"
 			onClick={() => signIn('google')}
 			ml="auto"
 		>
