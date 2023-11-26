@@ -1,0 +1,142 @@
+{
+	"products": [
+		[
+			"Mousse de Morango",
+			"Uma sobremesa leve e deliciosa, feita com morangos frescos batidos até obter uma textura suave e cremosa. O mousse é aerado e tem um sabor irresistível de morangos maduros, complementado por uma camada de calda de morango. Uma experiência refrescante para satisfazer sua vontade de doces.",
+			849,
+			"https://images.unsplash.com/photo-1488477181946-6428a0291777?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Sanduíche Natural de Frango",
+			"Um sanduíche saudável e saboroso preparado com frango desfiado, maionese, aipo, cenoura e temperos especiais. Servido em pão integral fresco, este sanduíche é uma opção leve e nutritiva para uma refeição rápida e deliciosa. Uma combinação perfeita de sabores e texturas para satisfazer seu paladar.",
+			699,
+			"https://images.unsplash.com/photo-1475090169767-40ed8d18f67d?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Sobremesa de Oreo no Copo",
+			"Uma sobremesa irresistível apresentada em camadas dentro de um copo elegante. Este parfait de Oreo começa com uma base de migalhas de biscoito Oreo, seguida por uma camada generosa de creme de baunilha aerado. Entre as camadas, há pedaços crocantes de biscoito Oreo, proporcionando uma textura deliciosa. Finalizado com chantilly, mais migalhas de Oreo e um toque de calda de chocolate. Uma experiência única para os amantes de Oreo!",
+			699,
+			"https://images.unsplash.com/photo-1563805042-7684c019e1cb?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Cupcake Red Velvet",
+			"Um irresistível cupcake vermelho aveludado, delicadamente preparado com cacau de alta qualidade e uma pitada de baunilha. A massa fofa e úmida é complementada por um cremoso e sedoso creme de queijo na cobertura, formando uma combinação perfeita de sabores. Decorado com migalhas de bolo red velvet para uma apresentação encantadora. Um deleite elegante e delicioso para os amantes de sobremesas.",
+			349,
+			"https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Salgadinho de Peixe",
+			"Deliciosos salgadinhos de peixe crocantes, feitos com filés de peixe fresco temperados e empanados. Cada pedaço é frito até atingir uma textura dourada e crocante por fora, mantendo a suculência e o sabor do peixe por dentro. Servido com um molho especial para realçar ainda mais o sabor marinho. Uma opção saborosa para os amantes de frutos do mar.",
+			599,
+			"https://images.unsplash.com/photo-1562967916-eb82221dfb92?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Donut Recheado",
+			"Um deleite indulgente para os amantes de doces, nossos donuts recheados são feitos com uma massa macia e fofa. Cada donut é recheado generosamente com um creme delicioso, proporcionando uma explosão de sabor a cada mordida. Cobertos com um glacê suave e decorados com confeitos coloridos, esses donuts são uma experiência doce e satisfatória.",
+			299,
+			"https://images.unsplash.com/photo-1551024601-bec78aea704b?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Taco de Frango",
+			"Um taco irresistível com recheio suculento de frango temperado. O frango é grelhado até a perfeição e desfiado, depois envolto em uma tortilha de milho macia. Complementado por uma variedade de ingredientes frescos, como alface picada, tomate, queijo derretido e finalizado com uma generosa porção de molho de iogurte com coentro. Uma explosão de sabores e texturas em cada mordida.",
+			449,
+			"https://images.unsplash.com/photo-1545093149-618ce3bcf49d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Sanduíche Natural de Queijo",
+			"Um sanduíche leve e delicioso preparado com uma seleção de queijos finos. O queijo derretido é combinado com ingredientes frescos, como alface crocante, tomate maduro e maionese cremosa, tudo acomodado em duas fatias macias de pão integral. Uma opção saborosa e reconfortante para os amantes de queijo.",
+			529,
+			"https://images.unsplash.com/photo-1539252554453-80ab65ce3586?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Sobremesa Saudável de Frutas Vermelhas",
+			"Uma sobremesa leve e nutritiva que combina a doçura natural das frutas vermelhas. Camadas de morangos suculentos, amoras e framboesas são delicadamente intercaladas com iogurte grego sem gordura. Decorada com folhas de hortelã fresca para um toque de frescor. Uma opção deliciosa e saudável para satisfazer seu desejo por algo doce.",
+			699,
+			"https://images.unsplash.com/photo-1532884968933-5173fdde39f9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Macarons",
+			"Delicados e coloridos, nossos macarons são uma experiência de sabor única. Feitos com amêndoas moídas, esses pequenos doces têm uma casquinha crocante por fora e um recheio suave e cremoso. Disponíveis em uma variedade de sabores, desde o clássico chocolate e baunilha até opções mais ousadas, como framboesa e pistache. Cada mordida é uma explosão de sabores refinados e texturas agradáveis.",
+			249,
+			"https://images.unsplash.com/photo-1558326567-98ae2405596b?q=80&w=1959&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Cookies",
+			"Nossos cookies são a combinação perfeita de crocância por fora e maciez por dentro. Feitos com ingredientes de alta qualidade, cada cookie é repleto de pedaços generosos de chocolate ao leite e nozes, proporcionando uma explosão de sabor a cada mordida. Recém-saídos do forno, esses cookies são a indulgência perfeita para os amantes de doces.",
+			179,
+			"https://images.unsplash.com/photo-1590080874088-eec64895b423?q=80&w=2094&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Cachorro-Quente",
+			"O clássico cachorro-quente, uma salsicha suculenta grelhada envolvida em um pão macio. Coberto com molho de tomate, mostarda, ketchup, maionese, batata palha crocante e queijo ralado. Uma explosão de sabores em cada mordida, perfeito para saciar aquela vontade de algo gostoso e reconfortante.",
+			549,
+			"https://images.unsplash.com/photo-1612392061803-38f4c8317f5d?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Crepe Doce",
+			"Um crepe finamente preparado e recheado com uma combinação irresistível de ingredientes doces. A massa fina e macia é recheada com Nutella cremosa, banana fatiada e morangos frescos. Por cima, é finalizado com uma generosa pitada de açúcar de confeiteiro e uma drizzle de calda de chocolate. Uma delícia indulgente para os amantes de crepes doces.",
+			799,
+			"https://images.unsplash.com/photo-1515467837915-15c4777ba46a?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Pão de Queijo",
+			"Uma deliciosa especialidade brasileira, nosso pão de queijo é feito com uma mistura irresistível de polvilho, queijo parmesão e mussarela. Cada mordida revela uma textura macia por dentro e uma crocância leve por fora. Servido quente, esse quitute é uma explosão de sabores que conquista paladares de todos os gostos.",
+			349,
+			"https://images.unsplash.com/photo-1559141680-d0bd7bc5af84?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Queijo Grelhado",
+			"Um clássico reconfortante, nosso sanduíche de queijo grelhado é preparado com queijo derretido entre duas fatias de pão dourado e crocante. A textura cremosa do queijo derretido contrasta perfeitamente com a crosta dourada do pão. Simples, satisfatório e irresistível para os amantes de queijo.",
+			479,
+			"https://images.unsplash.com/photo-1528736235302-52922df5c122?q=80&w=2154&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Cuscuz",
+			"O cuscuz é uma iguaria versátil, preparada a partir de sêmola de trigo ou de milho. Na nossa versão, apresentamos o cuscuz cozido no vapor, resultando em uma textura macia e consistente. Pode ser servido tanto como acompanhamento salgado, com legumes e frutos do mar, quanto como sobremesa, adoçado com frutas e mel. Uma explosão de sabores e texturas em cada porção.",
+			599,
+			"https://images.unsplash.com/photo-1607116685391-29c9e9726561?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Petit Gâteau",
+			"Uma sobremesa clássica e indulgente, o Petit Gâteau apresenta uma casquinha crocante por fora e um centro incrivelmente cremoso e derretido. Feito com uma mistura decadente de chocolate, cada porção é servida quente e polvilhada com açúcar de confeiteiro. Uma experiência irresistível para os amantes de chocolate.",
+			899,
+			"https://images.unsplash.com/photo-1541783245831-57d6fb0926d3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Pudim",
+			"Nosso pudim é uma sobremesa clássica e reconfortante, preparada com uma mistura cremosa de leite condensado, ovos e açúcar. Assado até atingir uma consistência firme, o pudim é então desenformado para revelar uma textura suave e sedosa. Coberto com uma calda de caramelo rica, este pudim é uma indulgência deliciosa para satisfazer sua doçura.",
+			649,
+			"https://images.unsplash.com/photo-1637264596042-fcf205a81e1e?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Sanduíche Misto com Ovo",
+			"Um clássico sanduíche misto aprimorado com a adição de ovos perfeitamente cozidos. Entre duas fatias de pão macio, camadas de presunto e queijo derretido se combinam com ovos cozidos no ponto certo. O resultado é um sanduíche delicioso e reconfortante, perfeito para qualquer hora do dia.",
+			599,
+			"https://images.unsplash.com/photo-1617979417434-d80fbd960c90?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Brownie",
+			"Nosso brownie é uma tentação irresistível para os amantes de chocolate. Feito com cacau rico e chocolate de alta qualidade, cada pedaço é uma mistura perfeita de textura crocante por fora e fudgy por dentro. Com pedaços generosos de nozes para um toque extra de sabor e textura. Um deleite indulgente para satisfazer os desejos por doces.",
+			499,
+			"https://images.unsplash.com/photo-1636743715220-d8f8dd900b87?q=80&w=1970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Cacto",
+			"Nosso cacto é uma peça artesanal encantadora para adicionar um toque verde e alegre à sua decoração. Feito à mão com tecidos de alta qualidade, cada cacto é costurado com detalhes cuidadosos para replicar fielmente a forma e as nuances de um cacto real. Perfeito para quem deseja uma planta sem preocupações com manutenção. Disponível em diferentes padrões e tamanhos para se adequar ao seu estilo.",
+			999,
+			"https://images.unsplash.com/photo-1508022713622-df2d8fb7b4cd?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Planta Aloe Vera em Vaso Decorativo",
+			"Nossa planta de Aloe Vera em vaso decorativo é uma adição elegante e funcional à sua casa. Cultivada com cuidado, esta Aloe Vera é apresentada em um vaso artesanal decorado com padrões sutis. A Aloe Vera é conhecida por suas propriedades suavizantes e é perfeita para a decoração de interiores, além de proporcionar benefícios naturais para a pele. Um toque de frescor e beleza para o seu espaço.",
+			1299,
+			"https://images.unsplash.com/photo-1509423350716-97f9360b4e09?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		],
+		[
+			"Estampa 3D Abstrata",
+			"Esta impressionante impressão 3D apresenta uma forma abstrata única, criando uma peça de arte moderna e elegante para decorar seu espaço. A complexidade da geometria e os detalhes precisos proporcionam uma experiência visual fascinante. Fabricada com tecnologia de impressão 3D avançada, esta peça é uma adição contemporânea e única à sua coleção. Tamanho: 20 cm x 20 cm.",
+			1999,
+			"https://images.unsplash.com/photo-1610081574260-e61e93e6e1aa?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+		]
+	]
+}
