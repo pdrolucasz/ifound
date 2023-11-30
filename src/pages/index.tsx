@@ -27,9 +27,9 @@ const Home: NextPage<HomeProps> = ({ products }) => {
 }
 
 export const getServerSideProps: GetServerSideProps = (async (ctx) => {
-	// const res = await fetch('http://localhost:3000/api/products')
-	// const { products } = await res.json()
-	return { props: { products: [] } }
+	const res = await fetch('http://localhost:3000/api/products')
+	const { products } = await res.json()
+	return { props: { products } }
 })
 
 export default Home
