@@ -16,16 +16,35 @@ export default async function handler(
 		const response = await fauna.query<any>(
 			q.Map(
 				q.Paginate(q.Documents(q.Collection('products'))/*, { size: 5 }*/),
-				q.Lambda('x', q.Get(q.Var('x')))
+				q.Lambda(
+					'sellerRef',
+					q.Let(
+						{
+							product: q.Get(q.Var('sellerRef')),
+							seller: q.Get(q.Select(['data', 'sellerRef'], q.Var('product')))
+						},
+						{
+							product: q.Var('product'),
+							seller: q.Var('seller')
+						}
+					)
+				)
 			)
 		)
 
-		const products = response.data.map((product: any) => ({
-			id: product.ref.id,
-			title: product.data.title,
-			description: product.data.description,
-			price: product.data.price / 100,
-			image: product.data.image,
+		const products = response.data.map((resp: any) => ({
+			id: resp.product.ref.id,
+			title: resp.product.data.title,
+			description: resp.product.data.description,
+			price: resp.product.data.price / 100,
+			image: resp.product.data.image,
+			seller: {
+				id: resp.seller.ref.id,
+				name: resp.seller.data.name,
+				subtitle: resp.seller.data.subtitle,
+				description: resp.seller.data.description,
+				avatar: resp.seller.data.avatar,
+			}
 		}))
 
 		return res.status(200).json({ type: 'success', message: 'Busca concluída!', products })
