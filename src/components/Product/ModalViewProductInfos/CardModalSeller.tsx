@@ -23,6 +23,7 @@ export const CardModalSeller: FC<CardModalSellerProps> = ({ seller }) => {
 			overflow='hidden'
 			variant='elevated'
 			align="center"
+			px="4"
 		>
 			<Avatar
 				size="2xl"

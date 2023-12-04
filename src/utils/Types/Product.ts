@@ -4,6 +4,7 @@ export type ListSeller = {
 	subtitle: string
 	description: string
 	avatar: string
+	phone: string
 }
 
 export type ListProduct = {

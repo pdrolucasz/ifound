@@ -1,6 +1,4 @@
 import {
-	Button,
-	ButtonGroup,
 	Card,
 	CardBody,
 	CardFooter,
@@ -11,14 +9,12 @@ import {
 	Text,
 	Tooltip,
 	Box,
-	IconButton,
 	useDisclosure
 } from "@chakra-ui/react"
-import { FC } from "react"
+import { FC, useEffect } from "react"
 
 import { RiNewspaperLine } from "react-icons/ri"
 
-import { useCart } from "@/contexts/CartContext"
 import { ListProduct } from "@/utils/Types/Product"
 import { FormatPriceCurrency } from "@/utils/Functions/FormatPrice"
 
@@ -26,12 +22,18 @@ import { ButtonLeftIcon } from "../Buttons/ButtonLeftIcon"
 import { ModalViewProductInfos } from "./ModalViewProductInfos"
 
 interface CardProductProps {
+	isActive?: boolean
 	product: ListProduct
 }
 
-export const CardProduct: FC<CardProductProps> = ({ product }) => {
-	const { addProduct } = useCart()
+export const CardProduct: FC<CardProductProps> = ({ product, isActive = false }) => {
 	const { isOpen, onToggle } = useDisclosure()
+
+	useEffect(() => {
+		if (isActive) {
+			onToggle()
+		}
+	}, [])
 
 	return (
 		<>

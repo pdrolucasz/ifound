@@ -8,11 +8,11 @@ import { ListProduct } from '@/utils/Types/Product'
 import { CardProduct } from '@/components/Product/CardProduct'
 
 interface HomeProps {
+	selectedProduct?: string
 	products: ListProduct[]
 }
 
-const Home: NextPage<HomeProps> = ({ products }) => {
-	console.log(products)
+const Home: NextPage<HomeProps> = ({ products, selectedProduct }) => {
 	return (
 		<VStack w="100%" align="flex-start">
 			<SimpleGrid w="100%" minChildWidth="400px" spacing="4">
@@ -20,6 +20,7 @@ const Home: NextPage<HomeProps> = ({ products }) => {
 					<CardProduct
 						key={product.id}
 						product={product}
+						isActive={selectedProduct === product.id}
 					/>
 				))}
 			</SimpleGrid>
@@ -28,10 +29,13 @@ const Home: NextPage<HomeProps> = ({ products }) => {
 }
 
 export const getServerSideProps: GetServerSideProps = (async (ctx) => {
+	const { q } = ctx.query
 	// const res = await fetch('http://localhost:3000/api/products')
 	// const { products } = await res.json()
+	console.log(q)
 	return {
 		props: {
+			selectedProduct: q ?? '',
 			products: [{
 				"id": "381869310076781143",
 				"title": "Mousse de Morango",
@@ -43,7 +47,8 @@ export const getServerSideProps: GetServerSideProps = (async (ctx) => {
 					"name": "Erick Jacquin",
 					"subtitle": "Empresário, Chef",
 					"description": "Erick Jacquin é um chef de cozinha francês e um dos jurados do programa de culinária 'MasterChef Brasil', exibido pela Band desde 2014. Nasceu em 1964, em Dur Sur Auron, uma pequena e tradicional cidade do Departamento de Cher, no centro da França, perto do Vale do Loire.",
-					"avatar": "https://distribuicao.abad.com.br/wp-content/uploads/2017/07/Pomarola.jpg"
+					"avatar": "https://distribuicao.abad.com.br/wp-content/uploads/2017/07/Pomarola.jpg",
+					"phone": "5585996454838"
 				}
 			}]
 		}

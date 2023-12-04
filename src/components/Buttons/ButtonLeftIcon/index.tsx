@@ -12,7 +12,7 @@ import { IconType } from 'react-icons'
 interface ButtonLeftIconProps extends ButtonGroupProps {
 	label: string
 	icon: IconType
-	functionClick: () => void
+	functionClick?: () => void
 }
 
 export const ButtonLeftIcon: FC<ButtonLeftIconProps> = ({ functionClick, icon, label, ...rest }) => {
