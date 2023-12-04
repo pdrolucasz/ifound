@@ -35,7 +35,7 @@ export const CardProduct: FC<CardProductProps> = ({ product }) => {
 
 	return (
 		<>
-			<Card shadow="md" rounded="lg">
+			<Card shadow="md" rounded="lg" maxW="500px" >
 				<CardBody p="0" bg="gray.50" color="gray.900">
 					<Box p="4" bg="white" roundedTop="lg">
 						<Image

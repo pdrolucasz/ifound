@@ -15,7 +15,7 @@ const Home: NextPage<HomeProps> = ({ products }) => {
 	console.log(products)
 	return (
 		<VStack w="100%" align="flex-start">
-			<SimpleGrid w="100%" minChildWidth="400px" maxW="500px" spacing="4">
+			<SimpleGrid w="100%" minChildWidth="400px" spacing="4">
 				{products.map(product => (
 					<CardProduct
 						key={product.id}
