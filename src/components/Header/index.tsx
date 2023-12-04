@@ -39,7 +39,7 @@ export const Header: FC<HeaderProps> = () => {
 			<Logo />
 
 			<Flex align="center" ml="auto">
-				<NotificationsNav />
+				{/* <NotificationsNav /> */}
 
 				{data ? (
 					<Profile showProfileData={isWideVersion ?? false} />
