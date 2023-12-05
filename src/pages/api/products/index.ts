@@ -44,6 +44,7 @@ export default async function handler(
 				subtitle: resp.seller.data.subtitle,
 				description: resp.seller.data.description,
 				avatar: resp.seller.data.avatar,
+				phone: resp.seller.data.phone,
 			}
 		}))
 
